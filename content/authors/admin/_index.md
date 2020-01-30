@@ -5,25 +5,22 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: M.S. in Quantitative Ecology and Resource Management
+    institution: University of Washington
+    year: in progress
+  - course: B.S. in Applied and Computational Mathematics and Statistics
+    institution: University of Notre Dame
+    year: 2019
+email: "larnold3@uw.edu"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+- Statistics
+- Mathematical Modeling
+- Climate Change
+name: Logan Arnold
 organizations:
-- name: Stanford University
+- name: University of Washington
   url: ""
-role: Professor of Artificial Intelligence
+role: Graduate Student in Quantitative Ecology and Resource Management
 social:
 - icon: envelope
   icon_pack: fas
@@ -43,6 +40,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a first-year graduate student studying [Quantitative Ecology and Resource Management](https://quantitative.uw.edu/) at the University of Washington. I graduated from the University of Notre Dame in May 2019 with a major in [Applied and Computational Mathematics and Statistics](https://acms.nd.edu/) and a concentration in Biological Sciences. I have enjoyed math my entire life, and I became concerned about environmental problems while in high school; my undergraduate research with [Dr. David Medvigy](https://biology.nd.edu/people/david-medvigy/) introduced me to the ways in which my interests could align. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+For fun, I enjoy running, watching college football, playing video games, and consuming superhero content.
