@@ -1,8 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: I am interested in applying mathematical and computational techniques to solve environmental problems.
 education:
   courses:
   - course: M.S. in Quantitative Ecology and Resource Management
@@ -21,19 +20,19 @@ organizations:
 - name: University of Washington
   url: ""
 role: Graduate Student in Quantitative Ecology and Resource Management
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+# social:
+# - icon: envelope
+#   icon_pack: fas
+#   link: '#contact'
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/gcushen
 superuser: true
 user_groups:
 - Researchers
