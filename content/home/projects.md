@@ -28,6 +28,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Programming Tutorials"
     tag = "Programming Tutorial"
+    
+  [[content.filter_button]]
+    name = "Video Game Reviews"
+    tag = "Video Game Review"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
