@@ -33,7 +33,7 @@ subtitle = ""
     name = "Video Game Reviews"
     tag = "Video Game Review"
     
-    [[content.filter_button]]
+  [[content.filter_button]]
     name = "Mathematical Modeling"
     tag = "Mathematical Modeling"
 
