@@ -34,6 +34,10 @@ subtitle = ""
     tag = "Programming Tutorial"
     
   [[content.filter_button]]
+    name = "Statistics Tutorials"
+    tag = "Statistics Tutorial"
+    
+  [[content.filter_button]]
     name = "Video Game Reviews"
     tag = "Video Game Review"
     
