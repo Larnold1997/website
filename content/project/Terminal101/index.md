@@ -106,7 +106,7 @@ Sometimes you may prefer to move or rename a file rather than create a copy. `mv
 
 7. **Command 7: `cat`, `head`, and `tail`**
 
-Terminal has some built-in text editors (e.g. `nano` and `vim`) that may be of interest to you as a "next step" after completing this tutorial. (Alternatively, it is possible to open some other popular text editors in terminal, such as `Atom`.^[See [http://tutorials.jumpstartlab.com/academy/workshops/terminal_and_editor.html](http://tutorials.jumpstartlab.com/academy/workshops/terminal_and_editor.html) for a short tutorial.]) For simplicity, however, suppose you are not interested in editing a document but rather merely want to read its contents. This is precisely the purpose of `cat`, short for *concatenate*: `cat file` displays the contents of `file` in the terminal.
+Terminal has some built-in text editors (e.g. `nano` and `vim`) that may be of interest to you as a "next step" after completing this tutorial. (Alternatively, it is possible to open some other popular text editors in terminal, such as `Atom`.<a href="#note1" id="note1ref"><sup>1</sup></a>.For simplicity, however, suppose you are not interested in editing a document but rather merely want to read its contents. This is precisely the purpose of `cat`, short for *concatenate*: `cat file` displays the contents of `file` in the terminal.
 
 > *Exercise: type `cat tutorial.txt`*
 
@@ -120,7 +120,7 @@ It is worth noting that `cat`, `head`, and `tail` are simple commands that will 
 
 8. **Command 8: `grep`**
 
-The command `cat` can quickly fill the terminal with text if you use it on a large file. Instead of reading through an entire file, suppose you are instead interested in only a subset of it, but that the subset is not merely the beginning or ending of the file. For instance, `tutorial.txt` contains a few lines of sample data that mimic a data file that you may come across in your research. Perhaps you are only interested in the values from the month of January. The command `grep` can be used to search text files. `grep expression file` searches `file` for `expression` and displays the contents of all of the lines in `file` that contain `expression`. (`grep` is short for *globally search a regular expression^[You may wish to Google regular expressions to learn some more tools that enhance the functionality of `grep` and other command line arguments.] and print*.) Note that by default `grep` is case-sensitive; the flag `-i` performs case insensitive matching. 
+The command `cat` can quickly fill the terminal with text if you use it on a large file. Instead of reading through an entire file, suppose you are instead interested in only a subset of it, but that the subset is not merely the beginning or ending of the file. For instance, `tutorial.txt` contains a few lines of sample data that mimic a data file that you may come across in your research. Perhaps you are only interested in the values from the month of January. The command `grep` can be used to search text files. `grep expression file` searches `file` for `expression` and displays the contents of all of the lines in `file` that contain `expression`. (`grep` is short for *globally search a regular expression<a id="note2" href="#note2ref"><sup>2</sup></a> and print*.) Note that by default `grep` is case-sensitive; the flag `-i` performs case insensitive matching. 
 
 > *Exercise: type `grep Jan tutorial.txt`*
 
@@ -153,3 +153,7 @@ This tutorial has just scratched the surface of what can be done using terminal 
 By now, your terminal is likely filled with text. Although opening a new terminal window is an easy way to obtain a clean slate, your working directory in that new window will initially be your home directory. If you are buried in a hierarchy of sub-directories, it more convenient to use the command `clear` to remove the text in the terminal while maintaining your working directory.
 
 > *Exercise: type `clear` to clean your terminal window, then `pwd` to verify that your current directory is `TerminalTutorial/`*
+
+<a id="note1" href="#note1ref"><sup>1</sup></a> Go [here](http://tutorials.jumpstartlab.com/academy/workshops/terminal_and_editor.html) for a short tutorial.
+
+<a id="note2" href="#note2ref"><sup>2</sup></a> You may wish to Google regular expressions to learn some more tools that enhance the functionality of `grep` and other command line arguments.] 

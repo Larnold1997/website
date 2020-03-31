@@ -24,6 +24,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "All"
     tag = "*"
+    
+  [[content.filter_button]]
+    name = "Mathematical Modeling"
+    tag = "Mathematical Modeling"
   
   [[content.filter_button]]
     name = "Programming Tutorials"
@@ -33,9 +37,7 @@ subtitle = ""
     name = "Video Game Reviews"
     tag = "Video Game Review"
     
-  [[content.filter_button]]
-    name = "Mathematical Modeling"
-    tag = "Mathematical Modeling"
+  
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
